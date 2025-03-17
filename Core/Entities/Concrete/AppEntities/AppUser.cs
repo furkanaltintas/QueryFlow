@@ -13,7 +13,6 @@ namespace ApiService.Entities.Concrete.AppEntities
         public bool EmailConfirmed { get; set; }
         public string PasswordHash { get; set; }
         public string UserFullName { get; set; }
-        public string UserPassword { get; set; }
         public bool IsBlocked { get; set; }
         public int FalseEntryCount { get; set; }
 
