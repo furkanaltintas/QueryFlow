@@ -1,0 +1,2 @@
+﻿Veritabanından bazen costume Sorgular çekmek isteyebiliriz. Ona özel modeller yazmak için ayırılmıştır. 
+
